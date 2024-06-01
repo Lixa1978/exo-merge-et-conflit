@@ -1,2 +1,2 @@
 phase 1
-LOCAL
+REMOTE
